@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear hábitos.
 
-- [Visite o projeto online] (https://calmeida22.github.io/nlwsetup)
+- [Visite o projeto online] (https://calmeida22.github.io/nlwseput)
 
 ## 🔖 Layout
 
